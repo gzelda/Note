@@ -1,1 +1,3 @@
 # Note
+
+[Note](Note.md)
